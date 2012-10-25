@@ -9,11 +9,11 @@ Imports System.Runtime.InteropServices
 ' Passez en revue les valeurs des attributs de l'assembly
 
 <Assembly: AssemblyTitle("MasterMind")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("MasterMind")> 
+<Assembly: AssemblyDescription("Mastermin Console")> 
+<Assembly: AssemblyCompany("Punk Naab Phantasy")> 
+<Assembly: AssemblyProduct("Mastermind")> 
 <Assembly: AssemblyCopyright("Copyright ©  2012")> 
-<Assembly: AssemblyTrademark("")> 
+<Assembly: AssemblyTrademark("KKTeam")> 
 
 <Assembly: ComVisible(False)>
 
