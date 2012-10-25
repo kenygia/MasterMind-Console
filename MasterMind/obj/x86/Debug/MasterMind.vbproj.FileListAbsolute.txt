@@ -1,0 +1,17 @@
+C:\Users\remir\AppData\Local\Temporary Projects\MasterMind\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\remir\AppData\Local\Temporary Projects\MasterMind\obj\x86\Debug\MasterMind.Resources.resources
+C:\Users\remir\AppData\Local\Temporary Projects\MasterMind\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\remir\AppData\Local\Temporary Projects\MasterMind\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\devel\visual studio 2010\MasterMind\MasterMind\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\devel\visual studio 2010\MasterMind\MasterMind\obj\x86\Debug\MasterMind.Resources.resources
+D:\devel\visual studio 2010\MasterMind\MasterMind\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\devel\visual studio 2010\MasterMind\MasterMind\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\devel\visual studio 2010\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+D:\devel\visual studio 2010\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+D:\devel\visual studio 2010\MasterMind\MasterMind\bin\Debug\MasterMind.xml
+D:\devel\visual studio 2010\MasterMind\MasterMind\obj\x86\Debug\MasterMind.exe
+D:\devel\visual studio 2010\MasterMind\MasterMind\obj\x86\Debug\MasterMind.xml
+D:\devel\visual studio 2010\MasterMind\MasterMind\obj\x86\Debug\MasterMind.pdb
+C:\Users\remir\Documents\GitHub\MasterMind-Console\MasterMind\obj\x86\Debug\MasterMind.exe
+C:\Users\remir\Documents\GitHub\MasterMind-Console\MasterMind\obj\x86\Debug\MasterMind.xml
+C:\Users\remir\Documents\GitHub\MasterMind-Console\MasterMind\obj\x86\Debug\MasterMind.pdb
