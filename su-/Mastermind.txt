@@ -1,0 +1,6 @@
+﻿Il se présente généralement sous la forme d'un plateau perforé de 10 rangées de quatre trous pouvant accueillir des pions de couleurs.
+Le nombre de pions de couleurs différentes est de 8 et les huit couleurs sont généralement : 
+rouge ; jaune ; vert ; bleu ; orange ; blanc ; violet ; marron.
+Il y a également des pions blancs et rouges (ou noirs) utilisés pour donner des indications à chaque étape du jeu.
+10 coup, 4 ranger, 3 indicateur, 
+
